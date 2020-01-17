@@ -1,0 +1,24 @@
+Feature,Base Pass,Base Fail,Value Pass,Value Fail
+aboutsystem,0,0,0,0
+adaptivestim,0,0,0,0
+diaries,0,0,0,0
+energy,0,0,0,0
+fluoroscopy,0,0,0,0
+groupmanagement,0,0,0,0
+impedancemeasurement,0,0,0,0
+leadmanipulation,0,0,0,0
+leadselection,0,0,0,0
+mri,0,0,0,0
+nonfunctionaltest,0,0,0,0
+notifications,0,0,0,0
+painmap,0,0,0,0
+patientaccess,0,0,0,0
+patientinfo,0,0,0,0
+programmanagement,0,0,0,0
+reports,0,0,0,0
+simplifieddeviceconnectivity,0,0,0,0
+smoketest,0,0,0,0
+softwaresystemtests,0,0,0,0
+trainusers,0,0,0,0
+workflows,0,0,0,0
+localization,0,0,0,0
